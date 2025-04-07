@@ -56,9 +56,9 @@ function saveUserPreset(name, settings) {
 [/Tab]
 [/Tabs]
 
-[Image src="/api/placeholder/800/450" caption="Camera body with premium lens attachment" alt="Professional Camera Setup"]
+[Image src="https://placehold.co/600x400" caption="Camera body with premium lens attachment" alt="Professional Camera Setup"]
 
-[Video src="/api/placeholder/video" poster="/api/placeholder/800/450" caption="Quick start guide video tutorial"]
+[Video src="https://openvirtualworlds.org/omeka/items/embed/30" poster="https://placehold.co/600x400" caption="Quick start guide video tutorial"]
 
 [FAQ]
 [Q] How long does the battery last?
