@@ -58,7 +58,7 @@ function saveUserPreset(name, settings) {
 
 [Image src="https://placehold.co/600x400" caption="Camera body with premium lens attachment" alt="Professional Camera Setup"]
 
-[Video src="https://openvirtualworlds.org/omeka/items/embed/30" poster="https://placehold.co/600x400" caption="Quick start guide video tutorial"]
+[Video src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" caption="Example YouTube Video"]
 
 [FAQ]
 [Q] How long does the battery last?
