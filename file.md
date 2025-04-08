@@ -68,18 +68,14 @@ To get started with managing your licenses, follow the simple steps outlined bel
 [A] To link your Discord account, visit the BuiltByBit settings page and link your Discord account from there. This must be done before you can generate or manage licenses.
 
 [Q] What command do I need to use to create a license?  
-[A] Once your accounts are linked, use the command below in Discord to create a license:  
-/licensecreate
+[A] Once your accounts are linked, use the command in Discord to create a license:  /licensecreate
 
 [Q] How do I edit my license after creating it?  
-[A] To edit your license, use the command below:  
-/licensedit  
-This will allow you to make changes to the license, such as adding or removing IP addresses.
+[A] To edit your license, use the command: /licensedit    
 
 [Q] Can I view all my licenses?  
-[A] Yes, you can use the following command to view all your licenses:  
-/ownerlicense  
-This will display a dropdown menu where you can select and view each of your licenses.
+[A] Yes, you can use the following command to view all your licenses: /ownerlicense 
+ 
 
 [Q] Can I add multiple IP addresses to my license?  
 [A] Yes, you can add multiple numerical IP addresses. Use the Add IP button in the license editor to authorize multiple devices.
