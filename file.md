@@ -1,56 +1,107 @@
-## Licenses
+# Licenses
 
+## Overview
+
+To get started with managing your licenses, follow the simple steps outlined below. Licenses are tied to your account, and through Discord commands, you can easily create, manage, and edit them. You can add or remove authorized IPs, view active licenses, and more.
+
+---
+
+## Steps to Get a License
+
+1. Join Our Discord Server  
+   First, join our official Discord server to start the process. You will need to use Discord commands to manage your licenses.
+
+2. Link Your Discord Account to BuiltByBit  
+   After joining Discord, ensure that your Discord account is linked to your BuiltByBit account. You can do this by visiting your BuiltByBit account settings.
+
+3. Use the /licensecreate Command  
+   Once your accounts are linked, you can use the following command in the Discord server to create your license:
+   [Code language="javascript" title="Create License"]  
+   /licensecreate
+   [/Code]  
+   After running this command, you’ll be prompted to select the product you wish to create a license for.
+
+5. Managing Your License with /licensedit  
+   To edit the details of your license, use the following command:
+   [Code language="javascript" title="Edit License"]  
+   /licensedit
+   [/Code]  
+   This allows you to modify settings such as IP addresses, and you can also delete the license if needed.
+
+
+
+## Managing Licenses
+
+[Tabs]
+
+[Tab title="Create"]
+
+1. Create a License  
+   To create a new license, use the /licensecreate command. This will initiate the license creation process and prompt you to choose the product you want the license for.
+
+2. View All Licenses  
+   To view a list of all your active licenses, use the /ownerlicense command. This will show you a dropdown of your licenses, and you can select one to view its details.
+
+
+[/Tab]
+
+[Tab title="Setup"]
+
+1. Edit IP Addresses  
+   To modify IP addresses, use the Delete IP button in the license editor to remove any IPs that you no longer want authorized.
+
+2. Add IP Addresses  
+   You can add authorized numerical IP addresses to your license by using the Add IP option in the license editor. This will allow specific devices to connect.
+
+3. Delete License  
+   If you no longer need a license, you can delete it at any time using the Delete License button in the license editor.
+[/Tab]
+
+[/Tabs]
+
+## FAQ
 [FAQ]
 [Q] How do I link my Discord account to BuiltByBit?  
-[A] You can link your Discord account to BuiltByBit by visiting [this link](https://builtbybit.com/account/discord/). Once linked, you’ll be able to generate and manage your licenses.
+[A] To link your Discord account, visit the BuiltByBit settings page and link your Discord account from there. This must be done before you can generate or manage licenses.
 
 [Q] What command do I need to use to create a license?  
-[A] To create a license, use the `/licensecreate` command in the Discord server after linking your Discord account. Then, select the product for which you are generating the license.
+[A] Once your accounts are linked, use the command below in Discord to create a license:  
+/licensecreate
 
 [Q] How do I edit my license after creating it?  
-[A] To edit your license, use the `/licensedit` command in the Discord server. This command allows you to modify the license settings, including adding or removing authorized IP addresses.
+[A] To edit your license, use the command below:  
+/licensedit  
+This will allow you to make changes to the license, such as adding or removing IP addresses.
 
 [Q] Can I view all my licenses?  
-[A] Yes, you can view all your active licenses by using the `/ownerlicense` command in Discord. This will show you a dropdown of all your licenses, from which you can select and view the details of any license.
+[A] Yes, you can use the following command to view all your licenses:  
+/ownerlicense  
+This will display a dropdown menu where you can select and view each of your licenses.
 
 [Q] Can I add multiple IP addresses to my license?  
-[A] Yes, you can add multiple **numerical IP addresses** to your license. You can do this using the **Add IP** button in the license editor. This allows you to authorize several devices to connect to your product.
+[A] Yes, you can add multiple numerical IP addresses. Use the Add IP button in the license editor to authorize multiple devices.
 
 [Q] How do I add an IP address to my license?  
-[A] To add an IP address to your license, use the **Add IP** button in the license editor. Input the **numerical IP address** you wish to authorize for connections.
+[A] Use the Add IP option in the license editor and input the numerical IP address you want to authorize.
 
 [Q] Can I delete a license after creating it?  
-[A] Yes, you can delete your license at any time. To delete a license, use the **Delete License** option in the license editor. This will permanently remove the license.
+[A] Yes, you can delete your license by selecting the Delete License option in the license editor.
 
 [Q] Can I delete an IP address from my license?  
-[A] Yes, you can delete any added IP addresses from your license. Simply go to the license editor and remove the IP address you wish to delete.
+[A] Yes, you can delete an IP address at any time using the Delete IP button in the license editor.
 
-[Q] What happens if I remove an IP address from the license?  
-[A] If you remove an IP address from your license, any device using that IP address will no longer be authorized to connect to your product. Be cautious when removing IPs to ensure you do not accidentally block authorized devices.
-
-[Q] How long does it take for a license to be generated after using the `/licensecreate` command?  
-[A] The license will be generated instantly after you use the `/licensecreate` command and select your product. If you encounter any delays, you can check for updates in the Discord bot or contact support for assistance.
+[Q] How long does it take for a license to be generated?  
+[A] Your license will be generated instantly after you use the /licensecreate command. If there is any delay, you can contact support in the Discord server.
 
 [Q] Can I transfer my license to another user?  
-[A] No, licenses are tied to your account and cannot be transferred to another user. If you need to give someone else access, they must follow the same steps to generate their own license.
+[A] No, licenses cannot be transferred. If you want someone else to have access, they need to generate their own license.
 
 [Q] How do I check the status of my licenses?  
-[A] Use the `/ownerlicense` command to view all your active licenses. You can also use the dropdown menu to select a specific license and check its status.
+[A] Use the /ownerlicense command to view all active licenses. You can select a specific license to see its status.
 
-[Q] What if I can't find my license after generating it?  
-[A] If you can't find your license, make sure you have followed all the steps correctly, including linking your Discord account and running the correct commands. If you're still having trouble, contact support on our [Discord server](https://discord.gg/pikzstudios) for assistance.
+[Q] What if I can't find my license?  
+[A] If you can’t find your license, make sure you’ve followed all the steps correctly. If you’re still facing issues, reach out to support in the Discord server.
 
-[Q] Can I revoke a license after it has been issued?  
-[A] Yes, you can delete or revoke your license at any time using the **Delete License** button in the license editor. This will prevent the product from being accessed using that license.
-
-[Q] Are there any restrictions on the number of IPs I can add to a license?  
-[A] There is no specific limit on the number of IP addresses you can add to a license, but it’s important to manage them carefully to avoid exceeding any internal usage or security limits.
-
-[Q] Can I create a license without joining the Discord server?  
-[A] No, joining our Discord server is a required step to generate and manage your license. All license management is handled via Discord commands.
-
-[Q] What happens if I don't link my Discord account to BuiltByBit?  
-[A] If you don't link your Discord account to BuiltByBit, you won’t be able to generate or manage licenses. Linking your account is required for authentication purposes before you can use any license-related commands.
+[Q] Can I revoke or delete my license after it has been issued?  
+[A] Yes, you can delete or revoke your license anytime using the Delete License option in the license editor.
 [/FAQ]
-
-[Info] Make sure to follow all steps carefully and reach out to support if you encounter any issues during the license creation process.
