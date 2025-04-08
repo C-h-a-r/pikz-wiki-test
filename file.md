@@ -36,25 +36,25 @@ To get started with managing your licenses, follow the simple steps outlined bel
 
 [Tab title="Create"]
 
-1. Create a License  
-   To create a new license, use the /licensecreate command. This will initiate the license creation process and prompt you to choose the product you want the license for.
+1. **Create a License**  
+   To create a new license, use the `/licensecreate` command. This will initiate the license creation process and prompt you to choose the product you want the license for.
 
-2. View All Licenses  
-   To view a list of all your active licenses, use the /ownerlicense command. This will show you a dropdown of your licenses, and you can select one to view its details.
-
+2. **View All Licenses**  
+   To view a list of all your active licenses, use the `/ownerlicense` command. This will show you a dropdown of your licenses, and you can select one to view its details.
 
 [/Tab]
 
 [Tab title="Setup"]
 
-1. Edit IP Addresses  
-   To modify IP addresses, use the Delete IP button in the license editor to remove any IPs that you no longer want authorized.
+1. **Edit IP Addresses**  
+   To modify IP addresses, use the "Delete IP" button in the license editor to remove any IPs that you no longer want authorized.
 
-2. Add IP Addresses  
-   You can add authorized numerical IP addresses to your license by using the Add IP option in the license editor. This will allow specific devices to connect.
+2. **Add IP Addresses**  
+   You can add authorized numerical IP addresses to your license by using the "Add IP" option in the license editor. This will allow specific devices to connect.
 
-3. Delete License  
-   If you no longer need a license, you can delete it at any time using the Delete License button in the license editor.
+3. **Delete License**  
+   If you no longer need a license, you can delete it at any time using the "Delete License" button in the license editor.
+
 [/Tab]
 
 [/Tabs]
