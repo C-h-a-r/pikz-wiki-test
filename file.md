@@ -28,7 +28,7 @@ To get started with managing your licenses, follow the simple steps outlined bel
    [/Code]  
    This allows you to modify settings such as IP addresses, and you can also delete the license if needed.
 
-
+---
 
 ## Managing Licenses
 
@@ -58,6 +58,9 @@ To get started with managing your licenses, follow the simple steps outlined bel
 [/Tab]
 
 [/Tabs]
+
+---
+
 
 ## FAQ
 [FAQ]
