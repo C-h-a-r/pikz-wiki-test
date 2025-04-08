@@ -1,5 +1,6 @@
 ## Licenses
 
+[FAQ]
 [Q] How do I link my Discord account to BuiltByBit?  
 [A] You can link your Discord account to BuiltByBit by visiting [this link](https://builtbybit.com/account/discord/). Once linked, you’ll be able to generate and manage your licenses.
 
@@ -50,6 +51,6 @@
 
 [Q] What happens if I don't link my Discord account to BuiltByBit?  
 [A] If you don't link your Discord account to BuiltByBit, you won’t be able to generate or manage licenses. Linking your account is required for authentication purposes before you can use any license-related commands.
-
+[/FAQ]
 
 [Info] Make sure to follow all steps carefully and reach out to support if you encounter any issues during the license creation process.
